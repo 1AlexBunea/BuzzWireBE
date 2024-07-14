@@ -108,7 +108,8 @@ AUTH_PASSWORD_VALIDATORS = [
 CORS_ALLOW_CREDENTIALS = True
 
 CORS_ALLOWED_ORIGINS = [
-    'http://localhost:5173',  
+    'http://localhost:5173', 
+    'https://buzz-wire-fe.vercel.app/' 
 ]
 
 CORS_ALLOW_METHODS = [

@@ -25,7 +25,7 @@ Frontend: [BuzzWire Frontend](https://github.com/1AlexBunea/BuzzWireFE)
 3. Create a virtual environment and activate it
 4. Install dependencies
 5. Apply migrations
-6. Run the development server:
+6. Run the development server: python manage.py runserver 8000
 
 ## Configuration
 
